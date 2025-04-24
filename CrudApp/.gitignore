@@ -1,0 +1,62 @@
+#Generated using chat.gpt
+
+# Node.js (Frontend)
+node_modules/
+dist/
+.vite/
+.env
+*.log
+*.npm
+*.yarn
+
+# Build output directories
+build/
+public/
+
+# Vite build cache
+.vite/
+
+# .env files (for sensitive information)
+.env*
+*.env.local
+
+# System files (macOS)
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# ASP.NET Core (Backend)
+# .NET build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# ASP.NET Core user secrets (for development)
+secrets/
+
+# ASP.NET Core publish directory
+publish/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Rider workspace settings (if using JetBrains Rider)
+.idea/
+
+# NuGet packages
+*.nupkg
+
+# ASP.NET Core configuration and logs
+appsettings.Development.json
+appsettings.Production.json
+appsettings.json
+logs/
+
+# JetBrains Rider/Visual Studio temporary files
+.idea/
+
+# User-specific files (e.g., configuration for editors)
+.vscode/
